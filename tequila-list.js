@@ -1,4 +1,4 @@
-[
+const approvedTequilas = [
   'GRAN PATRÓN PLATINUM SILVER',
   'GRAN PATRON SMOKY SILVER',
   'PATRON SILVER',
@@ -117,4 +117,6 @@
   'MESH AND BONE',
   'MESTEÑO JOVEN',
   'Puntagave',
-]
+];
+
+module.exports = approvedTequilas;
